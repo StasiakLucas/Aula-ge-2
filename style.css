@@ -1,13 +1,17 @@
 #logo {
   height: 150px;
 }
-
-header ul {
+nav {
   display: inline-block;
-  vertical-align: top;
+    vertical-align: top;
+
+}
+nav ul{
+
+  display: inline-block;
 }
 
-header li {
+nav li {
   display: inline-block;
-  margin: 0 20px 0 0;
+  margin: 0 20px 0 40px;
 }
