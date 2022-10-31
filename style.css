@@ -15,3 +15,15 @@ nav li {
   display: inline-block;
   margin: 0 20px 0 40px;
 }
+
+.filme-descricao {
+  display: inline-block;
+}
+
+.filme-descricao p {
+  display: inline-block;
+}
+.capa {
+  display: inline-block;
+  height: 520px;
+}
