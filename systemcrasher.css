@@ -1,0 +1,62 @@
+body {
+
+}
+
+header {
+  background-color: pink;
+}
+
+#logo {
+  height: 150px;
+}
+
+
+nav {
+  display: inline-block;
+    vertical-align: top;
+    position: relative;
+    right: 0;
+
+}
+nav ul{
+
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 20px 0 40px;
+}
+
+.divisao {
+display: inline-block;
+width: 662px;
+height: 550px;
+position: relative;
+}
+
+.divisao2 {
+  display: inline-block;
+  width: 662px;
+  vertical-align: top;
+  height: 550px;
+  position: relative;
+}
+
+.texto {
+  display: inline-block;
+  font-size: 22px;
+  color: #E84D69;
+  position: absolute;
+  top: 121px;
+}
+
+
+.capa {
+  display: inline-block;
+  height: 520px;
+  width: 343px;
+  position: absolute;
+  top: 15px;
+  left: 159.5px;
+}
