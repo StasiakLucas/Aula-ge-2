@@ -27,3 +27,25 @@ nav li {
   display: inline-block;
   height: 520px;
 }
+
+.filme_item {
+  display:inline-block;
+  vertical-align: top;
+  border: 8px;
+  border-style: ridge;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.filme_item h2{
+  text-align: center;
+  color: #dd154e;
+}
+
+.filme_item p{
+  text-align: center;
+}
+
+#capa_system_crasher {
+  height : 450px;
+}
