@@ -1,0 +1,64 @@
+body {
+  margin: 0%;
+  background: FFFAFA;
+}
+
+#logo {
+  height: 150px;
+}
+#logostanlley {
+  height: 150px;
+  margin-right: 20px; 
+}
+#reiarthur {
+  display: inline-block;
+  float: left;
+  border-radius: 03px;
+  margin-left: 05px;
+  margin-right: 20px;
+  margin-top: 15px;
+}
+
+header{
+   background: PowderBlue;
+   border-style: solid;
+   border-radius: 04px;
+}
+
+header nav a:hover {
+  color: green;
+}
+
+nav {
+  background: white;
+  border-radius: 03px;
+  display: inline-block;
+  vertical-align: top;
+  height: 45px;
+  width: 510px;
+}
+nav ul{
+  display: inline-block;
+}
+
+nav li {
+  font-size: 17px;
+  display: inline-block;
+  margin: 0 20px 0 40px;
+}
+
+main {
+  margin: 6px;
+  vertical-align: top;
+  display: inline;
+}
+
+main div {
+  text-align: center;
+  margin-left:20px 20px 100px 50px;
+}
+
+p {
+  margin: inline 800px: 1400px;
+  margin-right: 20px
+}
