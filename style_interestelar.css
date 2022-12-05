@@ -1,5 +1,5 @@
 header
-{background:#111111;
+{background:black;
 padding:50px 0;
 }
 
@@ -61,12 +61,9 @@ border-radius: 10px
 .interestelar 
 { display:inline-block;
 vertical-align:top;
-padding:10px 10px;
+padding:10px;
   
 }
-
-.imageminterestelar:hover
-{width:21%}
 
 .itens
 {text-align: left;
@@ -85,17 +82,5 @@ padding:20px 20px
 
 .trailer {
 text-align: center;
-padding:2px}
-
-footer {
-text-align: center;
-background: url("https://st4.depositphotos.com/2126555/19839/i/450/depositphotos_198394100-stock-photo-close-up-of-texture-fabric.jpg ");
-padding: 40px 0;
 }
 
-.copyright {
-text-align:center;
-color: #FFFFFF;
-font-size: 15px;
- margin: 10px 0 0}
-  

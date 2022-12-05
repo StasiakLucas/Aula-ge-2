@@ -1,0 +1,75 @@
+body {
+
+}
+
+header {
+  background-color: rgb(243, 87, 87);
+}
+
+#logo {
+  height: 150px;
+}
+
+
+nav {
+  display: inline-block;
+    vertical-align: top;
+    position: relative;
+    right: 0;
+
+}
+nav ul{
+
+  display: inline-block;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 20px 0 40px;
+}
+
+.divisao {
+display: inline-block;
+width: 662px;
+height: 550px;
+position: relative;
+}
+
+.divisao2 {
+  display: inline-block;
+  width: 662px;
+  vertical-align: top;
+  height: 550px;
+  position: relative;
+}
+
+.texto {
+  display: inline-block;
+  font-size: 22px;
+  color: red;
+  position: absolute;
+  top: 121px;
+  text-align: justify;
+}
+
+.texto2 {
+  display: inline-block;
+  font-size: 22px;
+  color: #080002;
+  position: absolute;
+  top: 300px;
+}
+
+.capa {
+  display: inline-block;
+  height: 520px;
+  width: 343px;
+  position: absolute;
+  top: 15px;
+  left: 159.5px;
+}
+
+.diretora {
+  font-size: 22px;
+  color: bla;
+}
